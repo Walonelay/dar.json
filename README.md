@@ -1,13 +1,11 @@
-{
- "appId":"ca-app-pub-3940256099942544/1033173712",
- "native":"ca-app-pub-3940256099942544/1044960115",
- "interstial":"ca-app-pub-3940256099942544/1033173712",
- "link3":"https://apkpure-game.xyz/",
- "link2":"https://apyartv.xyz/",
- "link1":"https://apyar.xyz/",
- "status":" ",
- "update":" ",
- "banner":"ca-app-pub-3940256099942544/6300978111",
- "reward":"ca-app-pub-3940256099942544/5224354917"
- 
+{"status":true,
+"linkone":"https://github.com/",
+"linktwo":"https://www.google.com/",
+"appId":"ca-app-pub-4740926204152143~8623401376",
+"banner":"ca-app-pub-4740926204152143/2561212447",
+"native":"ca-app-pub-4740926204152143/7178457768",
+"title":"",
+"about":"",
+"update":"",
+"interstial":"ca-app-pub-4740926204152143/3430784445"
 }
