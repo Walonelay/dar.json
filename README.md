@@ -2,12 +2,12 @@
 
 "linkone":"https://github.com/",
 "linktwo":"https://www.google.com/",
-"appId":"ca-app-pub-3940256099942544/3419835294",
-"banner":"ca-app-pub-3940256099942544/6300978111",
-"native":"ca-app-pub-3940256099942544/6300978111",
+"appId":"ca-app-pub-4740926204152143~9818597423",
+"banner":"ca-app-pub-4740926204152143/6185628652",
+"native":"ca-app-pub-4740926204152143/6185628652",
 "title":"",
 "about":"",
 "update":"",
 "version":2,
-"interstial":"ca-app-pub-3940256099942544/1033173712"
+"interstial":"ca-app-pub-4740926204152143/4015788550"
 }
