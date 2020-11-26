@@ -1,7 +1,7 @@
 {"status":false,
 
-"linkone":"https://mgapyarnew.blogspot.com/?m=1",
-"linktwo":"https://mgapyarnew.blogspot.com/?m=1",
+"linkone":"https://google.com/",
+"linktwo":"https://google.com/",
 "appId":"ca-app-pub-1194618771520741~7328184311",
 "banner":"ca-app-pub-1194618771520741/8947523369",
 "native":"ca-app-pub-1194618771520741/8947523369",
