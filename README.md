@@ -1,6 +1,6 @@
 {"status":true,
 
-"linkon"linkonee":"https://www.google.com/",
+"linkone":"https://www.google.com/",
 "linktwo":"https://www.google.com/",
 "appId":"ca-app-pub-1194618771520741~7328184311",
 "banner":"ca-app-pub-1194618771520741/8947523369",
